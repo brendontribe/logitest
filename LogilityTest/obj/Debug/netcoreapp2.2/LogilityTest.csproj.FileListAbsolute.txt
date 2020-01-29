@@ -1,0 +1,11 @@
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\bin\Debug\netcoreapp2.2\LogilityTest.deps.json
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\bin\Debug\netcoreapp2.2\LogilityTest.runtimeconfig.json
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\bin\Debug\netcoreapp2.2\LogilityTest.runtimeconfig.dev.json
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\bin\Debug\netcoreapp2.2\LogilityTest.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\bin\Debug\netcoreapp2.2\LogilityTest.pdb
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\obj\Debug\netcoreapp2.2\LogilityTest.csprojResolveAssemblyReference.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\obj\Debug\netcoreapp2.2\LogilityTest.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\obj\Debug\netcoreapp2.2\LogilityTest.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\obj\Debug\netcoreapp2.2\LogilityTest.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\obj\Debug\netcoreapp2.2\LogilityTest.dll
+C:\Users\brend\OneDrive\Documents\Visual Studio 2017\Projects\LogilityTest\LogilityTest\obj\Debug\netcoreapp2.2\LogilityTest.pdb
